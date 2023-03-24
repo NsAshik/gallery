@@ -1,0 +1,40 @@
+.row{
+  height: 600px;
+  width: 1300px;
+  background-color: rgb(229, 229, 238);
+  background-image: url("./gimages/img5.jpeg");
+  position: relative;
+ 
+}
+.col{
+  height: 500px;
+  width: 250px;
+  
+  position: absolute;
+  margin:50px 50px 75px;
+}
+.col-1{
+  position: absolute;
+  background-color: rgb(223, 206, 223);
+  left: 0px;
+}
+.col-2{
+  position: absolute;
+  background-color: rgb(238, 232, 229);
+  left: 300px;
+}
+.col-3{
+  position: absolute; 
+  background-color: rgb(229, 230, 218);
+  left: 600px;
+}
+.col-4{
+  position: absolute;
+  background-color:rgb(202, 215, 221);
+  left: 900px;
+}
+/*color*/
+.color
+{
+  color: white;
+}
